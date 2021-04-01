@@ -1,0 +1,9 @@
+﻿  Ellipse.cpp
+C:\Users\Пользователь\source\repos\oop_laba3.1\oop_laba3.1\Ellipse.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Pair.cpp
+C:\Users\Пользователь\source\repos\oop_laba3.1\oop_laba3.1\Pair.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\Пользователь\source\repos\oop_laba3.1\oop_laba3.1\Pair.cpp(41,15): warning C4101: c: неиспользованная локальная переменная
+  Source.cpp
+C:\Users\Пользователь\source\repos\oop_laba3.1\oop_laba3.1\Source.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  oop_laba3.1.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba3.1\Debug\oop_laba3.1.exe
